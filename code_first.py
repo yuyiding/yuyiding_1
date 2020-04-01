@@ -30,3 +30,8 @@ elif a>=500 and a<1000:
     a=0.9*a
 else:
     a=a
+
+if a>b:
+    print("chitu!")
+else:
+    print("enough!")
