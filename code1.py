@@ -10,3 +10,5 @@ b=input()
 b=int(b)
 n=input()
 n=int(n)
+
+a=float(0)
