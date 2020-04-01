@@ -5,3 +5,9 @@ Created on Thu Mar 28 21:57:33 2019
 
 @author: yuyiding
 """
+
+b=input()
+b=int(b)
+n=input()
+n=int(n)
+a=float(0)
