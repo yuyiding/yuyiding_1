@@ -35,3 +35,8 @@ else:
 import math                                        
 a=math.floor(a)
 print(a)
+
+if a>b:
+    print("chitu!")
+else:
+    print("enough!")
