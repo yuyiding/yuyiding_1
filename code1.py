@@ -24,3 +24,7 @@ for i in range(1,n+1):
     else:
         q=q
     a=a+q
+
+import math                                        
+a=math.floor(a)
+print(a)
